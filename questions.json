@@ -1,0 +1,40 @@
+{
+  "mongo_db_questions": {
+    "hostel_room": [
+      "What is the hostel room for Rohit Kumar?",
+      "Tell me the hostel room of Amit Sharma",
+      "Where does Neha Verma stay in the hostel?",
+      "Which hostel room is assigned to Pooja Singh?"
+    ],
+    "pending_fees": [
+      "Which students have pending fees?",
+      "List students with pending fees",
+      "Show students whose fees are pending"
+    ]
+  },
+  "sqlite_db_questions": {
+    "top_scorers": [
+      "List the top 3 scorers",
+      "Who are the top scorers?",
+      "Show top performers in exams",
+      "Give me the highest scoring students"
+    ],
+    "timetable": [
+      "Show the timetable for MCA",
+      "What is the class schedule for MCA?",
+      "Which subjects are scheduled for MCA?"
+    ]
+  },
+  "negative_test_cases": [
+    "What is Rohit Kumar's phone number?",
+    "Who teaches DBMS?",
+    "What is the average marks in ML?",
+    "Explain hostel rules"
+  ],
+  "demo_flow_recommended_order": [
+    "What is the hostel room for Rohit Kumar?",
+    "Which students have pending fees?",
+    "List the top 3 scorers",
+    "Show the timetable for MCA"
+  ]
+}
