@@ -3,4 +3,8 @@ langgraph
 langchain-openai
 python-dotenv
 pymongo
-sqlite3
+chromadb
+pypdf
+langchain-community
+sentence-transformers
+langchain-text-splitters

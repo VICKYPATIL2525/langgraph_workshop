@@ -3,7 +3,7 @@ from pymongo import MongoClient
 print("🔄 Starting MongoDB connection test...")
 
 try:
-    client = MongoClient("mongodb://localhost:27017", serverSelectionTimeoutMS=3000)
+    client = MongoClient("mongodb://localhost:27017", serverSelectionTimeoutMS=3000) # we have to change the local host path of this from here and keep it as
 
     # Force connection
     client.admin.command("ping")
